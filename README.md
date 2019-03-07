@@ -1,4 +1,4 @@
-# Nutrient_Calculator
+# Nutrient Calculator
 
 Purpose of app: calculate nutrition data for food and recipes, and visualizing % daily nutrient values.
 Data Source: Canadian Nutrient File 2015 (as [R package](https://github.com/yihanwu/CAnutrients))
