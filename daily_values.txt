@@ -1,0 +1,29 @@
+Nutrient	DV	NutrientID	Group
+Fat	75	204	macronutrients
+Sum of saturated fatty acids and trans fatty acids	20	0	macronutrients
+Fibre	28	291	macronutrients
+Sugars	100	269	macronutrients
+Cholesterol	300	601	macronutrients
+Sodium	2300	307	macronutrients
+Potassium	4700	306	mineral
+Calcium	1300	301	mineral
+Iron	18	303	mineral
+Vitamin A	900	814	vitamin
+Vitamin C	90	401	vitamin
+Vitamin D	20	339	vitamin
+Vitamin K	120	430	vitamin
+"Thiamin, Thiamine or Vitamin B1"	1.2	404	vitamin
+Riboflavin or Vitamin B2	1.3	405	vitamin
+Niacin	16	409	vitamin
+Vitamin B6	1.7	415	vitamin
+Folate	400	815	vitamin
+Vitamin B12	2.4	418	vitamin
+Choline	550	862	vitamin
+Biotine	30	416	vitamin
+Pantothenic Acid or Pantothenate	5	410	vitamin
+Phosphorous	1250	305	mineral
+Magnesium	420	304	mineral
+Zinc	11	309	mineral
+Selenium	55	317	mineral
+Copper	0.9	312	mineral
+Manganese	2.3	315	mineral
